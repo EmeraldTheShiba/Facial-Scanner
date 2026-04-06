@@ -1,0 +1,7 @@
+opencv-python
+numpy 
+insightface==0.7.3
+onnxruntime
+psycopg[binary]
+python-dotenv
+supabase
