@@ -60,6 +60,7 @@ face_auth/
 <img width="1904" height="1106" alt="image" src="https://github.com/user-attachments/assets/3d090ee7-c517-426a-9a42-211719947f00" />
 
 
+<img width="940" height="708" alt="Screenshot 2026-04-07 at 5 38 34 PM" src="https://github.com/user-attachments/assets/5a458034-22dd-4a47-9fe3-cd24ded94d86" />
 
 
 
