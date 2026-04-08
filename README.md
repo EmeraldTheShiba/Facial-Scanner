@@ -1,4 +1,4 @@
-# 🚀 Automated Attendance Tracking System
+#  Automated Attendance Tracking System
 
 An AI-powered facial recognition attendance system built with Python, InsightFace, OpenCV, and Supabase.
 
@@ -6,16 +6,16 @@ An AI-powered facial recognition attendance system built with Python, InsightFac
 
 ## 📌 Features
 
-- 🎥 Real-time face recognition via webcam
-- 🧠 AI-based identity matching (InsightFace)
-- ☁️ Cloud database integration (Supabase PostgreSQL)
-- 📸 Unknown face detection + cloud storage
-- 🖥️ GUI launcher interface
-- 📊 Attendance log viewer
+-  Real-time face recognition via webcam
+-  AI-based identity matching (InsightFace)
+-  Cloud database integration (Supabase PostgreSQL)
+-  Unknown face detection + cloud storage
+-  GUI launcher interface
+-  Attendance log viewer
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - OpenCV
@@ -25,7 +25,7 @@ An AI-powered facial recognition attendance system built with Python, InsightFac
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 face_auth/
 ├── main.py
 ├── database.py
@@ -35,13 +35,13 @@ face_auth/
 ├── README.md
 ├── requirements.txt
 
-🧠 How It Works
+ How It Works
 1.Loads enrolled student faces from enroll/
 2.Generates face embeddings using InsightFace
 3.Matches webcam input against stored embeddings
 4.Logs attendance in Supabase database
 5.Uploads unknown faces to cloud storage
-📊 Future Improvements
+ Future Improvements
 1.Better recognition accuracy
 2.Admin dashboard
 3.Mobile integration
