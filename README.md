@@ -35,27 +35,30 @@ face_auth/
 ├── README.md
 ├── requirements.txt
 
- How It Works
-1.Loads enrolled student faces from enroll
+How It Works: 
 
-2.Generates face embeddings using InsightFace
+1. Loads enrolled student faces from enroll
 
-3.Matches webcam input against stored embeddings
+2. Generates face embeddings using InsightFace
 
-4.Logs attendance in Supabase database
+3. Matches webcam input against stored embeddings
 
-5.Uploads unknown faces to cloud storage
+4. Logs attendance in Supabase database
+
+5. Uploads unknown faces to cloud storage
 
 Future Improvements:
 
-1.Better recognition accuracy
+1. Better recognition accuracy
 
-2.Admin dashboard
+2. Admin dashboard
 
-3.Mobile integration
+3. Mobile integration
 
-4.Multi-user analytics
+4. Multi-user analytics
 
+
+## Examples
 
 <img width="1000" height="576" alt="Screenshot 2026-04-06 135255" src="https://github.com/user-attachments/assets/d72c53fd-c010-4431-be76-99a6784e7090" />
 
@@ -68,6 +71,8 @@ Future Improvements:
 
 <img width="1904" height="1106" alt="image" src="https://github.com/user-attachments/assets/3d090ee7-c517-426a-9a42-211719947f00" />
 
+
+## Initial Sketch of the GUI
 
 <img width="940" height="708" alt="Screenshot 2026-04-07 at 5 38 34 PM" src="https://github.com/user-attachments/assets/5a458034-22dd-4a47-9fe3-cd24ded94d86" />
 
