@@ -36,15 +36,24 @@ face_auth/
 ├── requirements.txt
 
  How It Works
-1.Loads enrolled student faces from enroll/
+1.Loads enrolled student faces from enroll
+
 2.Generates face embeddings using InsightFace
+
 3.Matches webcam input against stored embeddings
+
 4.Logs attendance in Supabase database
+
 5.Uploads unknown faces to cloud storage
- Future Improvements
+
+Future Improvements:
+
 1.Better recognition accuracy
+
 2.Admin dashboard
+
 3.Mobile integration
+
 4.Multi-user analytics
 
 
